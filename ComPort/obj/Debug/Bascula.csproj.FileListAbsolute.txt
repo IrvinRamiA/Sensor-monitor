@@ -1,0 +1,10 @@
+C:\Users\User\Documents\C#\Carpeta - Programa - Desplegado PC - C#\ComPort\bin\Debug\ComPort.exe.config
+C:\Users\User\Documents\C#\Carpeta - Programa - Desplegado PC - C#\ComPort\bin\Debug\ComPort.exe
+C:\Users\User\Documents\C#\Carpeta - Programa - Desplegado PC - C#\ComPort\bin\Debug\ComPort.pdb
+C:\Users\User\Documents\C#\Carpeta - Programa - Desplegado PC - C#\ComPort\obj\Debug\Bascula.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#\Carpeta - Programa - Desplegado PC - C#\ComPort\obj\Debug\ComPort.Form1.resources
+C:\Users\User\Documents\C#\Carpeta - Programa - Desplegado PC - C#\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+C:\Users\User\Documents\C#\Carpeta - Programa - Desplegado PC - C#\ComPort\obj\Debug\Bascula.csproj.GenerateResource.cache
+C:\Users\User\Documents\C#\Carpeta - Programa - Desplegado PC - C#\ComPort\obj\Debug\Bascula.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\Carpeta - Programa - Desplegado PC - C#\ComPort\obj\Debug\ComPort.exe
+C:\Users\User\Documents\C#\Carpeta - Programa - Desplegado PC - C#\ComPort\obj\Debug\ComPort.pdb
